@@ -1,4 +1,4 @@
-👋 Hi, I’m Vinay Bisen
+👋 Hi, I’m Vinay Pal
 
 🚀 Backend Developer | Python | FastAPI | Generative AI (LangChain, RAG)
 💼 3+ years of experience building scalable backend systems and AI-driven applications.
@@ -85,4 +85,4 @@ Building enterprise-level RAG systems for large datasets
 
 📫 Contact Me
 
-📧 Email: vinaybisen42@gmail.com
+📧 Email: vinaypal1831@gmail.com
