@@ -1,15 +1,16 @@
+👇
+
 👋 Hi, I’m Vinay Pal
 
 🚀 Backend Developer | Python | FastAPI | Generative AI (LangChain, RAG)
-💼 3+ years of experience building scalable backend systems and AI-driven applications.
 
 👨‍💻 About Me
 
-I’m a backend-focused developer specializing in Python and FastAPI, with strong hands-on experience in building high-performance REST APIs, database-centric systems, and Generative AI solutions.
+I’m a backend-focused developer specializing in Python and FastAPI, with hands-on experience building high-performance REST APIs, scalable database-driven systems, and AI-powered backend applications.
 
-I enjoy designing clean and scalable architectures, optimizing API performance, and integrating AI-powered features like RAG pipelines, LangChain workflows, and AI agents into real-world applications.
+I have practical experience in Retrieval-Augmented Generation (RAG) systems, LangChain workflows, and building AI-powered backend services.
 
-I focus on writing clean, maintainable code, following best practices, and solving complex backend problems efficiently.
+I focus on designing clean, modular architectures, optimizing API performance, and writing production-ready, maintainable code following clean architecture principles.
 
 🛠 Tech Stack
 🔹 Backend
@@ -32,7 +33,7 @@ Retrieval-Augmented Generation (RAG)
 
 OpenAI APIs
 
-🔹 Frontend (Basic)
+🔹 Frontend (Basic Understanding)
 
 HTML, CSS, JavaScript
 
@@ -46,43 +47,79 @@ REST API Design
 
 JWT Authentication
 
-Docker (Basics)
+Docker (Basic)
 
-Clean Architecture Principles
+Clean Architecture
 
 🚀 Projects
 🏫 Institute Management System (Backend)
 
 Tech: Python, FastAPI, SQLAlchemy, PostgreSQL, LangChain, RAG
 
-Built scalable REST APIs to manage students, courses, faculty, attendance, and fees
+Developed scalable REST APIs for managing students, courses, faculty, attendance, and fees
 
-Designed optimized relational database schemas for performance and data integrity
+Designed optimized relational database schemas ensuring performance and data integrity
 
-Integrated an AI-powered natural language query system using RAG
+Integrated AI-powered natural language query system using RAG
 
-Implemented authentication, validations, role-based access, and centralized error handling
+Implemented role-based authentication and centralized error handling
 
-Followed clean architecture and modular code structure
+Followed modular and clean architecture
 
-🏥 HealthGoods – Medical Store Management System
+🤖 MCP Server – AI Tool Execution Server (Model Context Protocol)
 
-Tech: Python, SQL, HTML, CSS
+Tech: Python, FastMCP, LangChain, Google Serper API, GitHub REST API, SMTP, PyAutoGUI
 
-Developed inventory and billing management system
+Built a custom MCP-compliant AI tool execution server enabling LLMs/AI agents to perform real-world actions through structured tools.
 
-Automated stock tracking, low-stock alerts, and sales reports
+🔹 Key Implementations:
 
-Improved operational efficiency for daily store management
+Developed multiple MCP tools using @mcp.tool decorator for structured AI-agent interaction
+Integrated real-time web search using Google Serper API for factual queries
+Implemented SMTP-based email sending system with environment-secured credentials
+Built YouTube transcript extraction & summarization using LangChain loaders
+Automated media control (play, pause, next song) using pywhatkit and pyautogui
 
-📈 What I’m Currently Working On
+Integrated full GitHub API automation layer:
+List repositories
+Create repository
+Create & commit files (Base64 encoding handling)
+Read repository files
+Implemented system-level automation:
+Open websites
+Take screenshots with delay
+Volume control operations
+Secured credentials using .env configuration
+Designed modular and extensible architecture for scalable AI tool expansion
 
-Advanced FastAPI architectures (Clean & Scalable Design)
+☕ Dubai Cold Coffee Finder – Location-Based Coffee Spot Search App
 
-AI Agents using LangGraph
+Tech: Python, Streamlit, Pandas, Geopy
 
-Building enterprise-level RAG systems for large datasets
+Developed an interactive location-based coffee finder web app to discover nearest cold coffee spots in Dubai using geospatial filtering.
 
-📫 Contact Me
+🔹 Key Implementations:
+
+Built interactive UI using Streamlit with dynamic sidebar filters
+
+Integrated CSV dataset processing using Pandas
+
+Implemented real-time open/closed status detection using system time comparison
+
+Calculated geographic distance using geopy.geodesic based on user coordinates
+
+Applied multi-level filtering:
+
+Spot type (Cafe, Cart, Truck)
+
+Open status
+
+Maximum distance range
+
+Sorted results dynamically by nearest distance
+
+Designed user-friendly dataframe display for filtered results
+
+Contact
 
 📧 Email: vinaypal1831@gmail.com
